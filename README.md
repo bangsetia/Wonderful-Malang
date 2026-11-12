@@ -6,6 +6,34 @@ Driving Simulation of Malang (West Java)
 <img width="1277" height="956" alt="image" src="https://github.com/user-attachments/assets/3bca7312-6c98-48d9-82ef-ee967222456d" />
 
 
+👑 BAHASA INDONESIA (INDONESIAN VERSION)
+
+Jelajahi keindahan dan kegilaan jalanan Jawa Timur dalam simulator berkendara paling imersif sekaligus menggelitik yang pernah ada!
+
+Wonderful Malang adalah sebuah game simulator bus dan angkutan umum berskala masif yang dibangun secara mandiri menggunakan Semarbroka Engine, sebuah custom game engine berbasis C++ dan DirectX 11 PBR (Physically Based Rendering). Nikmati replika digital Malang Raya hingga Surabaya dalam skala presisi 1:1 yang dibangun menggunakan data spasial nyata (SHP).
+
+Di balik visualnya yang memukau dan realistis, bersiaplah menghadapi simulasi kehidupan supir yang penuh dengan kearifan lokal yang "bar-bar" dan mengocok perut!
+
+FITUR UTAMA:
+
+• Ekosistem Dunia Nyata 1:1 & Waktu 24/7: Berkendaralah melintasi rute orisinal dari Malang menuju Surabaya. Nikmati siklus waktu real-time 24/7 dan cuaca dinamis. Rasakan pekatnya kabut malam di jalur ekstrem Poncokusumo menuju Bromo atau macetnya pasar Singosari di jam kerja.
+
+• Mekanik Survival & Kehidupan Sopir: Anda bukan mesin! Turunlah dari kemudi untuk mengisi BBM, mampir ke warung kelontong untuk makan dan minum, buang air di fasilitas umum, atau sewa kamar kabin di kapal feri untuk tidur demi menjaga stamina Anda.
+
+• Mode 1: Pariwisata & Bus AKDP (Antar Kota Dalam Provinsi): Kemudikan armada bus legendaris dengan nama-nama plesetan jenaka yang terinspirasi dari PO raksasa Jawa Timuran (Sultan99, Panda Tobat, Petruk, dll.). Pilih jalur cepat via Tol Karanglo atau jalur bawah penuh drama via Lawang.
+
+• Mode 2: Angkot Simulator (The Ultimate Chaos): Rasakan sensasi narik mikrolet (angkot biru) dengan rute asli (AL, GL, ADL, MK). Hadapi sistem spawn penumpang dinamis yang akan mengacungkan jari di tempat tak terduga—mulai dari blindspot tikungan sempit hingga tanjakan curam!
+
+• AI Traffic yang "Emosional": Mengerem mendadak demi penumpang angkot tanpa lampu sein? Bersiaplah disalip oleh AI kendaraan lain yang melotot sambil memaki kasar lewat spatial 3D audio: "Jancuk koen! Bidek matamu coeg, mandek sak nggon-nggon!"
+
+• Mod Terintegrasi & Map Editor: Akses langsung Level Editor dari menu utama. Tarik spline road PBR instan menggunakan mouse, muat berkas SHP daerahmu sendiri, susun bangunan, dan bangun mode permainan impianmu layaknya bermain game sandbox!
+
+• Penyeberangan Laut Real-Time: Rasakan perjalanan maraton melintasi Selat Bali (2-3 jam) atau Laut Jawa (hingga 24 jam). Anda bisa melakukan Skip Mode instan atau memilih bersantai mengeksplorasi dek kapal feri sambil menikmati sunset PBR yang indah.
+
+Nikmati perpaduan unik antara teknologi engine premium dan komedi visual kultur lokal yang belum pernah Anda temukan di simulator mana pun di dunia!
+
+👑 ENGLISH VERSION
+
 Experience the beauty and the beautiful chaos of East Java's streets in the most immersive yet hilarious driving simulator ever created!
 
 
