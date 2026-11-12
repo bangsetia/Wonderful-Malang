@@ -62,16 +62,26 @@ Discover the ultimate crossover between premium custom engine technology and unf
 
 
 • Spesifikasi Minimum (Target 1080p 30 FPS - Low/Medium):
+
 	• OS: Windows 10/11 (64-bit)
+	
 	• Processor: Intel Core i5-6400 / AMD Ryzen 3 1200
+	
 	• Memory: 8 GB RAM
+	
 	• Graphics: NVIDIA GeForce GTX 1050 Ti / AMD Radeon RX 570 (VRAM 4GB wajib untuk texture streaming aset PBR)
+	
 	• DirectX: Version 11
   
 • Spesifikasi Rekomendasi (Target 1080p 60 FPS - High):
+
 	• OS: Windows 10/11 (64-bit)
+	
 	• Processor: Intel Core i7-7700K / AMD Ryzen 5 3600
+	
 	• Memory: 16 GB RAM (Sangat penting untuk menampung map streaming Malang-Surabaya)
+	
 	• Graphics: NVIDIA GeForce GTX 1070 / AMD Radeon RX 6600 XT
+	
 	• Storage: SSD sangat direkomendasikan agar loading chunk peta skala 1:1 berjalan lancar tanpa stuttering.
 
